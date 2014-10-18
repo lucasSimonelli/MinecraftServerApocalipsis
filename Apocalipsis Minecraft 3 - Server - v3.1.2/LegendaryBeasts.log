@@ -1,0 +1,21 @@
+10-18 00:14:35 [FINEST] Sent event FMLPreInitializationEvent to mod LegendaryBeasts
+10-18 00:14:39 [FINEST] Sending event FMLInitializationEvent to mod LegendaryBeasts
+10-18 00:14:39 [FINEST] Sent event FMLInitializationEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sending event IMCEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sent event IMCEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sending event FMLPostInitializationEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sent event FMLPostInitializationEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sending event FMLLoadCompleteEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sent event FMLLoadCompleteEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sending event FMLServerAboutToStartEvent to mod LegendaryBeasts
+10-18 00:14:40 [FINEST] Sent event FMLServerAboutToStartEvent to mod LegendaryBeasts
+10-18 00:14:42 [FINEST] Sending event FMLServerStartingEvent to mod LegendaryBeasts
+10-18 00:14:42 [INFO] Attempting to load data from directory C:\Users\Lucas\Downloads\games\Apocalipsis Minecraft 3 - Server - v3.1.2\.\world\beastData
+10-18 00:14:42 [INFO] Loaded "beasts"
+10-18 00:14:42 [INFO] Loaded "nest0"
+10-18 00:14:42 [FINEST] Sent event FMLServerStartingEvent to mod LegendaryBeasts
+10-18 00:14:42 [FINEST] Sending event FMLServerStartedEvent to mod LegendaryBeasts
+10-18 00:14:42 [FINEST] Sent event FMLServerStartedEvent to mod LegendaryBeasts
+10-18 01:41:11 [INFO] Attempting to spawn beast type 1 at {281,88,300}
+10-18 01:41:11 [INFO] Success! Spawned a(n) Ender Lord
+10-18 01:41:43 [INFO] Saved "nest0"

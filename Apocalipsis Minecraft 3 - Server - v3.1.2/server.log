@@ -1,0 +1,1040 @@
+2014-10-15 19:07:58 [INFO] Starting minecraft server version 1.6.4
+2014-10-15 19:08:08 [INFO] MCA: Loading mod properties...
+2014-10-15 19:08:08 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2014-10-15 19:08:08 [INFO] MCA:  -BetterDungeons2091.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -BiblioCraft[v1.5.5].zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -ConfigMod for MC v1.6.4.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -CoroUtil for MC v1.6.4.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -Creeperspecies_1.6.2.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -CyanosWonderfulWands-1.1.0.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -DecoCraft1.6.4 V1.9b.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -Digitalxp-0.1.2c.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -Dungeon Mobs v3.0.5.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -EnchantingPlus-1.16.5.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -EternalFrost.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -ExtendedRenderer for MC v1.6.4.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -Farlanders_v1.1c.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -Forge_LegendaryBeastsAlpha1.6.4.0.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -GraveStone_2.8.3.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -GrimoireofGaia2(1.8.2c).zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -Hostile Worlds v0.4.3 Alpha Mod for MC v1.6.4.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -InfernalMobs_1.6.4.zip <NOT>
+2014-10-15 19:08:08 [INFO] MCA:  -MCA-3.6.1 MC-1.6.4.zip <YES>
+2014-10-15 19:08:08 [INFO] MCA: Loading skins from data file: MCA-3.6.1 MC-1.6.4.zip...
+2014-10-15 19:08:08 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-15 19:08:08 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-15 19:08:08 [INFO] MCA: Language ID: en_US
+2014-10-15 19:08:08 [INFO] MCA: Loading English...
+2014-10-15 19:08:08 [INFO] MCA: Loaded 1642 phrases in English.
+2014-10-15 19:08:09 [INFO] Loading properties
+2014-10-15 19:08:09 [INFO] Default game type: SURVIVAL
+2014-10-15 19:08:09 [INFO] Generating keypair
+2014-10-15 19:08:10 [INFO] Starting Minecraft server on *:25565
+2014-10-15 19:08:12 [INFO] Smart Moving allows client configurations
+2014-10-15 19:08:12 [INFO] Smart Moving uses communication protocol 2.3
+2014-10-15 19:08:12 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2014-10-15 19:08:12 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2014-10-15 19:08:12 [INFO] Preparing level "world"
+2014-10-15 19:08:13 [WARNING] Unable to find spawn biome
+2014-10-15 19:08:13 [INFO] Preparing start region for level 0
+2014-10-15 19:08:19 [INFO] Preparing spawn area: 4%
+2014-10-15 19:08:20 [INFO] Preparing spawn area: 4%
+2014-10-15 19:08:21 [INFO] Preparing spawn area: 5%
+2014-10-15 19:08:31 [INFO] Preparing spawn area: 5%
+2014-10-15 19:08:32 [INFO] Preparing spawn area: 6%
+2014-10-15 19:08:33 [INFO] Preparing spawn area: 9%
+2014-10-15 19:08:34 [INFO] Preparing spawn area: 12%
+2014-10-15 19:08:35 [INFO] Preparing spawn area: 14%
+2014-10-15 19:08:36 [INFO] Preparing spawn area: 17%
+2014-10-15 19:08:37 [INFO] Preparing spawn area: 19%
+2014-10-15 19:08:38 [INFO] Preparing spawn area: 21%
+2014-10-15 19:08:39 [INFO] Preparing spawn area: 24%
+2014-10-15 19:08:40 [INFO] Preparing spawn area: 25%
+2014-10-15 19:08:41 [INFO] Preparing spawn area: 27%
+2014-10-15 19:08:42 [INFO] Preparing spawn area: 30%
+2014-10-15 19:08:43 [INFO] Preparing spawn area: 32%
+2014-10-15 19:08:44 [INFO] Preparing spawn area: 34%
+2014-10-15 19:08:45 [INFO] Preparing spawn area: 37%
+2014-10-15 19:08:47 [INFO] Preparing spawn area: 37%
+2014-10-15 19:08:49 [INFO] Preparing spawn area: 38%
+2014-10-15 19:08:50 [INFO] Preparing spawn area: 40%
+2014-10-15 19:08:51 [INFO] Preparing spawn area: 43%
+2014-10-15 19:08:52 [INFO] Preparing spawn area: 45%
+2014-10-15 19:08:53 [INFO] Preparing spawn area: 47%
+2014-10-15 19:08:54 [INFO] Preparing spawn area: 49%
+2014-10-15 19:08:54 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:08:55 [INFO] Preparing spawn area: 51%
+2014-10-15 19:08:56 [INFO] Preparing spawn area: 53%
+2014-10-15 19:08:57 [INFO] Preparing spawn area: 55%
+2014-10-15 19:08:58 [INFO] Preparing spawn area: 57%
+2014-10-15 19:08:59 [INFO] Preparing spawn area: 59%
+2014-10-15 19:09:00 [INFO] Preparing spawn area: 60%
+2014-10-15 19:09:01 [INFO] Preparing spawn area: 62%
+2014-10-15 19:09:02 [INFO] Preparing spawn area: 64%
+2014-10-15 19:09:03 [INFO] Preparing spawn area: 66%
+2014-10-15 19:09:05 [INFO] Preparing spawn area: 67%
+2014-10-15 19:09:06 [INFO] Preparing spawn area: 68%
+2014-10-15 19:09:07 [INFO] Preparing spawn area: 70%
+2014-10-15 19:09:08 [INFO] Preparing spawn area: 72%
+2014-10-15 19:09:09 [INFO] Preparing spawn area: 74%
+2014-10-15 19:09:10 [INFO] Preparing spawn area: 75%
+2014-10-15 19:09:11 [INFO] Preparing spawn area: 77%
+2014-10-15 19:09:12 [INFO] Preparing spawn area: 79%
+2014-10-15 19:09:14 [INFO] Preparing spawn area: 80%
+2014-10-15 19:09:15 [INFO] Preparing spawn area: 82%
+2014-10-15 19:09:16 [INFO] Preparing spawn area: 84%
+2014-10-15 19:09:17 [INFO] Preparing spawn area: 86%
+2014-10-15 19:09:18 [INFO] Preparing spawn area: 88%
+2014-10-15 19:09:19 [INFO] Preparing spawn area: 91%
+2014-10-15 19:09:23 [INFO] Preparing spawn area: 92%
+2014-10-15 19:09:24 [INFO] Preparing spawn area: 94%
+2014-10-15 19:09:26 [INFO] Preparing spawn area: 96%
+2014-10-15 19:09:27 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:34 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:39 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:43 [INFO] Preparing spawn area: 96%
+2014-10-15 19:09:43 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:44 [INFO] Preparing spawn area: 99%
+2014-10-15 19:09:45 [INFO] Done (92.345s)! For help, type "help" or "?"
+2014-10-15 19:09:45 [WARNING] [ResonantEngine]SaveManager: Skipping object with id 
+2014-10-15 19:09:45 [INFO] MCA: Minecraft Comes Alive is running.
+2014-10-15 19:09:45 [INFO] /25.14.110.61:56789 lost connection
+2014-10-15 19:09:45 [INFO] /25.1.243.10:50539 lost connection
+2014-10-15 19:09:45 [INFO] /25.1.243.10:50540 lost connection
+2014-10-15 19:09:45 [INFO] /25.1.243.10:50541 lost connection
+2014-10-15 19:09:45 [INFO] /25.1.243.10:50543 lost connection
+2014-10-15 19:09:46 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:46 [INFO] Bernie [/25.1.243.10:50544] lost connection
+2014-10-15 19:09:54 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:56 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:09:56 [INFO] Bernie [/25.1.243.10:50551] lost connection
+2014-10-15 19:09:57 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:10:07 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:10:07 [INFO] SteveU [/25.14.110.61:56811] lost connection
+2014-10-15 19:10:09 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:10:11 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:10:11 [INFO] SteveU [/25.14.110.61:56814] lost connection
+2014-10-15 19:10:12 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:10:33 [INFO] Starting minecraft server version 1.6.4
+2014-10-15 19:10:41 [INFO] MCA: Loading mod properties...
+2014-10-15 19:10:41 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2014-10-15 19:10:41 [INFO] MCA:  -BetterDungeons2091.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -BiblioCraft[v1.5.5].zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -ConfigMod for MC v1.6.4.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -CoroUtil for MC v1.6.4.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -Creeperspecies_1.6.2.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -CyanosWonderfulWands-1.1.0.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -DecoCraft1.6.4 V1.9b.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -Digitalxp-0.1.2c.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -Dungeon Mobs v3.0.5.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -EnchantingPlus-1.16.5.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -EternalFrost.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -ExtendedRenderer for MC v1.6.4.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -Farlanders_v1.1c.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -Forge_LegendaryBeastsAlpha1.6.4.0.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -GraveStone_2.8.3.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -GrimoireofGaia2(1.8.2c).zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -Hostile Worlds v0.4.3 Alpha Mod for MC v1.6.4.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -InfernalMobs_1.6.4.zip <NOT>
+2014-10-15 19:10:41 [INFO] MCA:  -MCA-3.6.1 MC-1.6.4.zip <YES>
+2014-10-15 19:10:41 [INFO] MCA: Loading skins from data file: MCA-3.6.1 MC-1.6.4.zip...
+2014-10-15 19:10:41 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-15 19:10:41 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-15 19:10:41 [INFO] MCA: Language ID: en_US
+2014-10-15 19:10:41 [INFO] MCA: Loading English...
+2014-10-15 19:10:41 [INFO] MCA: Loaded 1642 phrases in English.
+2014-10-15 19:10:42 [INFO] Loading properties
+2014-10-15 19:10:42 [INFO] Default game type: SURVIVAL
+2014-10-15 19:10:42 [INFO] Generating keypair
+2014-10-15 19:10:42 [INFO] Starting Minecraft server on *:25565
+2014-10-15 19:10:42 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-10-15 19:10:42 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-10-15 19:10:42 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-10-15 19:10:42 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-10-15 19:10:45 [INFO] Smart Moving allows client configurations
+2014-10-15 19:10:45 [INFO] Smart Moving uses communication protocol 2.3
+2014-10-15 19:10:45 [INFO] Preparing level "world"
+2014-10-15 19:10:45 [WARNING] Unable to find spawn biome
+2014-10-15 19:10:46 [WARNING] Unable to find spawn biome
+2014-10-15 19:10:46 [INFO] Preparing start region for level 0
+2014-10-15 19:10:47 [INFO] Preparing spawn area: 4%
+2014-10-15 19:10:48 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:10:50 [INFO] Preparing spawn area: 4%
+2014-10-15 19:10:52 [INFO] Preparing spawn area: 5%
+2014-10-15 19:11:00 [INFO] Preparing spawn area: 6%
+2014-10-15 19:11:01 [INFO] Preparing spawn area: 7%
+2014-10-15 19:11:11 [INFO] Done (25.882s)! For help, type "help" or "?"
+2014-10-15 19:11:11 [INFO] MCA: Minecraft Comes Alive is running.
+2014-10-15 19:11:11 [INFO] Stopping server
+2014-10-15 19:11:11 [INFO] Saving players
+2014-10-15 19:11:11 [INFO] Saving worlds
+2014-10-15 19:11:11 [INFO] Saving chunks for level 'world'/Overworld
+2014-10-15 19:11:11 [INFO] Closing listening thread
+2014-10-15 19:11:16 [INFO] Saving chunks for level 'world'/Nether
+2014-10-15 19:11:16 [INFO] Saving chunks for level 'world'/The End
+2014-10-15 19:11:16 [INFO] Saving chunks for level 'world'/Outlands
+2014-10-15 19:11:16 [INFO] Saving chunks for level 'world'/Upendi
+2014-10-15 19:11:16 [INFO] Saving chunks for level 'world'/Eternal Frost
+2014-10-15 19:11:16 [INFO] Saving chunks for level 'world'/Pride Lands
+2014-10-15 19:11:19 [INFO] Stopping server
+2014-10-15 19:11:19 [INFO] Saving players
+2014-10-15 19:11:19 [INFO] Saving worlds
+2014-10-15 19:11:28 [INFO] Starting minecraft server version 1.6.4
+2014-10-15 19:11:36 [INFO] MCA: Loading mod properties...
+2014-10-15 19:11:36 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2014-10-15 19:11:36 [INFO] MCA:  -BetterDungeons2091.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -BiblioCraft[v1.5.5].zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -ConfigMod for MC v1.6.4.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -CoroUtil for MC v1.6.4.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -Creeperspecies_1.6.2.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -CyanosWonderfulWands-1.1.0.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -DecoCraft1.6.4 V1.9b.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -Digitalxp-0.1.2c.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -Dungeon Mobs v3.0.5.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -EnchantingPlus-1.16.5.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -EternalFrost.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -ExtendedRenderer for MC v1.6.4.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -Farlanders_v1.1c.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -Forge_LegendaryBeastsAlpha1.6.4.0.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -GraveStone_2.8.3.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -GrimoireofGaia2(1.8.2c).zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -Hostile Worlds v0.4.3 Alpha Mod for MC v1.6.4.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -InfernalMobs_1.6.4.zip <NOT>
+2014-10-15 19:11:36 [INFO] MCA:  -MCA-3.6.1 MC-1.6.4.zip <YES>
+2014-10-15 19:11:36 [INFO] MCA: Loading skins from data file: MCA-3.6.1 MC-1.6.4.zip...
+2014-10-15 19:11:36 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-15 19:11:36 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-15 19:11:36 [INFO] MCA: Language ID: en_US
+2014-10-15 19:11:36 [INFO] MCA: Loading English...
+2014-10-15 19:11:36 [INFO] MCA: Loaded 1642 phrases in English.
+2014-10-15 19:11:37 [INFO] Loading properties
+2014-10-15 19:11:37 [INFO] Default game type: SURVIVAL
+2014-10-15 19:11:37 [INFO] Generating keypair
+2014-10-15 19:11:38 [INFO] Starting Minecraft server on *:25565
+2014-10-15 19:11:38 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-10-15 19:11:38 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-10-15 19:11:38 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-10-15 19:11:38 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-10-15 19:11:40 [INFO] Smart Moving allows client configurations
+2014-10-15 19:11:40 [INFO] Smart Moving uses communication protocol 2.3
+2014-10-15 19:11:40 [INFO] Preparing level "world"
+2014-10-15 19:11:40 [INFO] Preparing start region for level 0
+2014-10-15 19:11:42 [INFO] Preparing spawn area: 9%
+2014-10-15 19:11:43 [INFO] Preparing spawn area: 11%
+2014-10-15 19:11:44 [INFO] Preparing spawn area: 14%
+2014-10-15 19:11:44 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:11:45 [INFO] Preparing spawn area: 16%
+2014-10-15 19:11:46 [INFO] Preparing spawn area: 19%
+2014-10-15 19:11:47 [INFO] Preparing spawn area: 20%
+2014-10-15 19:11:48 [INFO] Preparing spawn area: 23%
+2014-10-15 19:11:49 [INFO] Preparing spawn area: 26%
+2014-10-15 19:11:50 [INFO] Preparing spawn area: 29%
+2014-10-15 19:11:51 [INFO] Preparing spawn area: 32%
+2014-10-15 19:12:05 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:12:10 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:12:10 [INFO] Preparing spawn area: 33%
+2014-10-15 19:12:11 [INFO] Preparing spawn area: 36%
+2014-10-15 19:12:12 [INFO] Preparing spawn area: 39%
+2014-10-15 19:12:13 [INFO] Preparing spawn area: 43%
+2014-10-15 19:12:21 [INFO] Preparing spawn area: 44%
+2014-10-15 19:12:23 [INFO] Preparing spawn area: 47%
+2014-10-15 19:12:24 [INFO] Preparing spawn area: 49%
+2014-10-15 19:12:25 [INFO] Preparing spawn area: 51%
+2014-10-15 19:12:32 [INFO] Preparing spawn area: 54%
+2014-10-15 19:12:33 [INFO] Preparing spawn area: 56%
+2014-10-15 19:12:34 [INFO] Preparing spawn area: 59%
+2014-10-15 19:12:35 [INFO] Preparing spawn area: 62%
+2014-10-15 19:12:38 [INFO] Preparing spawn area: 64%
+2014-10-15 19:12:39 [INFO] Preparing spawn area: 67%
+2014-10-15 19:12:40 [INFO] Preparing spawn area: 69%
+2014-10-15 19:12:41 [INFO] Preparing spawn area: 72%
+2014-10-15 19:12:45 [INFO] Preparing spawn area: 72%
+2014-10-15 19:12:46 [INFO] Preparing spawn area: 74%
+2014-10-15 19:12:47 [INFO] Preparing spawn area: 76%
+2014-10-15 19:12:48 [INFO] Preparing spawn area: 78%
+2014-10-15 19:12:50 [INFO] Preparing spawn area: 79%
+2014-10-15 19:12:51 [INFO] Preparing spawn area: 81%
+2014-10-15 19:12:52 [INFO] Preparing spawn area: 83%
+2014-10-15 19:12:53 [INFO] Preparing spawn area: 86%
+2014-10-15 19:12:54 [INFO] Preparing spawn area: 88%
+2014-10-15 19:12:55 [INFO] Preparing spawn area: 90%
+2014-10-15 19:13:01 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:13:05 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:13:23 [INFO] Preparing spawn area: 92%
+2014-10-15 19:13:24 [INFO] Preparing spawn area: 93%
+2014-10-15 19:13:26 [INFO] Preparing spawn area: 95%
+2014-10-15 19:13:27 [INFO] Preparing spawn area: 96%
+2014-10-15 19:13:28 [INFO] Preparing spawn area: 98%
+2014-10-15 19:13:29 [INFO] Done (108.715s)! For help, type "help" or "?"
+2014-10-15 19:13:29 [INFO] MCA: Minecraft Comes Alive is running.
+2014-10-15 19:13:29 [INFO] /25.14.110.61:56922 lost connection
+2014-10-15 19:13:29 [INFO] /25.14.110.61:56931 lost connection
+2014-10-15 19:13:29 [INFO] /25.14.110.61:56945 lost connection
+2014-10-15 19:13:29 [INFO] /25.14.110.61:56968 lost connection
+2014-10-15 19:13:29 [INFO] /25.14.110.61:56970 lost connection
+2014-10-15 19:13:38 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 19:13:43 [INFO] Bernie[/25.1.243.10:50699] logged in with entity id 3428 at (-65.5, 64.0, -20.5)
+2014-10-15 19:13:43 [INFO] Bernie joined the game
+2014-10-15 19:13:44 [INFO] MCA: Created Worlds folder.
+2014-10-15 19:13:44 [INFO] MCA: Created new properties folder for the world 'world'.
+2014-10-15 19:13:44 [INFO] MCA: Saved world properties for player Bernie in world world
+2014-10-15 19:13:44 [INFO] MCA: Saved new world properties for world 'world' and player 'Bernie'.
+2014-10-15 19:13:48 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:13:50 [INFO] SteveU[/25.14.110.61:57044] logged in with entity id 5353 at (-71.5, 67.0, -14.5)
+2014-10-15 19:13:50 [INFO] SteveU joined the game
+2014-10-15 19:13:51 [INFO] MCA: Saved world properties for player Bernie in world world
+2014-10-15 19:13:51 [INFO] MCA: Saved world properties for player Bernie in world world
+2014-10-15 19:13:51 [INFO] MCA: Saved world properties for player Bernie in world world
+2014-10-15 19:13:52 [INFO] MCA: Created new properties folder for the world 'world'.
+2014-10-15 19:13:52 [INFO] MCA: Saved world properties for player SteveU in world world
+2014-10-15 19:13:52 [INFO] MCA: Saved new world properties for world 'world' and player 'SteveU'.
+2014-10-15 19:14:13 [INFO] MCA: Saved world properties for player SteveU in world world
+2014-10-15 19:14:13 [INFO] MCA: Saved world properties for player SteveU in world world
+2014-10-15 19:14:13 [INFO] MCA: Saved world properties for player SteveU in world world
+2014-10-15 19:14:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:14:20 [INFO] SteveU lost connection: disconnect.quitting
+2014-10-15 19:14:20 [INFO] SteveU left the game
+2014-10-15 19:14:25 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:14:26 [INFO] SteveU[/25.14.110.61:57066] logged in with entity id 11820 at (-71.023304390317, 67.0, -14.907152348623928)
+2014-10-15 19:14:26 [INFO] SteveU joined the game
+2014-10-15 19:14:27 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-15 19:18:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:18:36 [INFO] SteveU was shot by entity.BetterDungeons.Pirate.name bd.gunner
+2014-10-15 19:18:37 [INFO] Bernie was shot by entity.BetterDungeons.Pirate.name bd.gunner
+2014-10-15 19:18:46 [INFO] SteveU lost connection: disconnect.quitting
+2014-10-15 19:18:46 [INFO] SteveU left the game
+2014-10-15 19:18:47 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:18:49 [INFO] SteveU[/25.14.110.61:57213] logged in with entity id 18023 at (-74.87416434667605, 71.0, 0.06934393305930923)
+2014-10-15 19:18:49 [INFO] SteveU joined the game
+2014-10-15 19:18:50 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-15 19:19:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:19:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:20:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:21:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:21:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:30:15 [INFO] SteveU lost connection: disconnect.genericReason
+2014-10-15 19:30:15 [INFO] SteveU left the game
+2014-10-15 19:30:33 [INFO] /25.14.110.61:57517 lost connection
+2014-10-15 19:30:33 [INFO] /25.14.110.61:57518 lost connection
+2014-10-15 19:30:47 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:30:49 [INFO] SteveU[/25.14.110.61:57576] logged in with entity id 25077 at (224.14053782156387, 61.0, 53.44474206818653)
+2014-10-15 19:30:49 [INFO] SteveU joined the game
+2014-10-15 19:30:49 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-15 19:31:05 [INFO] <SteveU> me escuchas?
+2014-10-15 19:31:07 [INFO] <Bernie> so
+2014-10-15 19:31:34 [INFO] SteveU lost connection: disconnect.genericReason
+2014-10-15 19:31:34 [INFO] SteveU left the game
+2014-10-15 19:33:18 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:33:19 [INFO] SteveU[/25.14.110.61:57643] logged in with entity id 25502 at (225.84342016939678, 61.0, 53.906862418702346)
+2014-10-15 19:33:19 [INFO] SteveU joined the game
+2014-10-15 19:33:20 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-15 19:33:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:35:45 [INFO] SteveU lost connection: disconnect.genericReason
+2014-10-15 19:35:45 [INFO] SteveU left the game
+2014-10-15 19:36:05 [INFO] /25.14.110.61:57775 lost connection
+2014-10-15 19:36:05 [INFO] /25.14.110.61:57776 lost connection
+2014-10-15 19:36:07 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-15 19:36:09 [INFO] SteveU[/25.14.110.61:57843] logged in with entity id 26484 at (237.0427527712269, 63.0, 75.64886514005687)
+2014-10-15 19:36:09 [INFO] SteveU joined the game
+2014-10-15 19:36:10 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-15 19:38:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:39:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:40:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:42:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:44:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:44:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:48:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-15 19:53:51 [INFO] SteveU was blown up by entity.creeperspecies.MysteryCreeper.name
+2014-10-15 19:54:19 [INFO] <SteveU> hola
+2014-10-15 19:54:23 [INFO] <SteveU> hola
+2014-10-15 19:54:26 [INFO] <SteveU> hola
+2014-10-15 20:02:21 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-15 20:02:21 [INFO] Bernie left the game
+2014-10-15 20:02:22 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-15 20:02:24 [INFO] Bernie[/25.1.243.10:51198] logged in with entity id 40708 at (230.48553320222928, 60.0, 53.46980295408793)
+2014-10-15 20:02:24 [INFO] Bernie joined the game
+2014-10-15 20:02:24 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-15 20:17:51 [INFO] SteveU lost connection: disconnect.quitting
+2014-10-15 20:17:51 [INFO] SteveU left the game
+2014-10-15 20:17:52 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-15 20:17:52 [INFO] Bernie left the game
+2014-10-15 20:17:59 [INFO] Stopping server
+2014-10-15 20:17:59 [INFO] Saving players
+2014-10-15 20:17:59 [INFO] Saving worlds
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/Overworld
+2014-10-15 20:17:59 [INFO] Closing listening thread
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/Nether
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/The End
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/Outlands
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/Upendi
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/Eternal Frost
+2014-10-15 20:17:59 [INFO] Saving chunks for level 'world'/Pride Lands
+2014-10-16 21:23:52 [INFO] Starting minecraft server version 1.6.4
+2014-10-16 21:26:44 [INFO] MCA: Loading mod properties...
+2014-10-16 21:26:44 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2014-10-16 21:26:44 [INFO] MCA:  -BetterDungeons2091.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -BiblioCraft[v1.5.5].zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -ConfigMod for MC v1.6.4.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -CoroUtil for MC v1.6.4.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -Creeperspecies_1.6.2.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -CyanosWonderfulWands-1.1.0.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -DecoCraft1.6.4 V1.9b.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -Digitalxp-0.1.2c.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -Dungeon Mobs v3.0.5.zip <NOT>
+2014-10-16 21:26:44 [INFO] MCA:  -EnchantingPlus-1.16.5.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -EternalFrost.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -ExtendedRenderer for MC v1.6.4.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -Farlanders_v1.1c.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -Forge_LegendaryBeastsAlpha1.6.4.0.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -GraveStone_2.8.3.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -GrimoireofGaia2(1.8.2c).zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -Hostile Worlds v0.4.3 Alpha Mod for MC v1.6.4.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -InfernalMobs_1.6.4.zip <NOT>
+2014-10-16 21:26:45 [INFO] MCA:  -MCA-3.6.1 MC-1.6.4.zip <YES>
+2014-10-16 21:26:45 [INFO] MCA: Loading skins from data file: MCA-3.6.1 MC-1.6.4.zip...
+2014-10-16 21:26:46 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-16 21:26:46 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-16 21:26:46 [INFO] MCA: Language ID: en_US
+2014-10-16 21:26:46 [INFO] MCA: Loading English...
+2014-10-16 21:26:46 [INFO] MCA: Loaded 1642 phrases in English.
+2014-10-16 21:26:59 [INFO] Loading properties
+2014-10-16 21:26:59 [INFO] Default game type: SURVIVAL
+2014-10-16 21:26:59 [INFO] Generating keypair
+2014-10-16 21:27:05 [INFO] Starting Minecraft server on *:25565
+2014-10-16 21:27:05 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-10-16 21:27:05 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-10-16 21:27:05 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-10-16 21:27:06 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-10-16 21:27:54 [INFO] Smart Moving allows client configurations
+2014-10-16 21:27:54 [INFO] Smart Moving uses communication protocol 2.3
+2014-10-16 21:28:06 [INFO] Preparing level "world"
+2014-10-16 21:28:12 [INFO] Preparing start region for level 0
+2014-10-16 21:28:14 [INFO] Preparing spawn area: 0%
+2014-10-16 21:28:17 [INFO] Preparing spawn area: 2%
+2014-10-16 21:28:18 [INFO] Preparing spawn area: 7%
+2014-10-16 21:28:20 [INFO] Preparing spawn area: 9%
+2014-10-16 21:28:21 [INFO] Preparing spawn area: 16%
+2014-10-16 21:28:22 [INFO] Preparing spawn area: 24%
+2014-10-16 21:28:23 [INFO] Preparing spawn area: 29%
+2014-10-16 21:28:24 [INFO] Preparing spawn area: 37%
+2014-10-16 21:28:25 [INFO] Preparing spawn area: 51%
+2014-10-16 21:28:26 [INFO] Preparing spawn area: 68%
+2014-10-16 21:28:27 [INFO] Preparing spawn area: 87%
+2014-10-16 21:28:29 [INFO] Preparing spawn area: 94%
+2014-10-16 21:28:29 [INFO] Done (23,249s)! For help, type "help" or "?"
+2014-10-16 21:28:30 [INFO] MCA: Minecraft Comes Alive is running.
+2014-10-16 21:29:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:29:34 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-16 21:29:39 [INFO] Bernie[/25.1.243.10:49589] logged in with entity id 141 at (236.62990168476875, 55.0, 68.5791524236615)
+2014-10-16 21:29:40 [INFO] Bernie joined the game
+2014-10-16 21:29:48 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-16 21:29:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:29:55 [INFO] <Bernie> asd
+2014-10-16 21:29:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:30:01 [INFO] <Bernie> asd
+2014-10-16 21:30:03 [INFO] <Bernie> asd
+2014-10-16 21:32:15 [INFO] <Bernie> asd
+2014-10-16 21:33:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:34:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:34:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:34:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:35:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:35:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:35:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:35:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:38:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:38:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:38:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:39:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:39:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:39:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:39:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:40:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:40:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:43:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:45:07 [INFO] Bernie was killed by magic
+2014-10-16 21:45:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:45:39 [INFO] <Bernie> asd
+2014-10-16 21:45:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:45:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:50:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:51:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:51:22 [INFO] Bernie was slain by entity.NetherHound.name
+2014-10-16 21:51:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:51:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:53:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:53:21 [INFO] <Bernie> asd
+2014-10-16 21:53:22 [INFO] <Bernie> asd
+2014-10-16 21:53:23 [INFO] <Bernie> asd
+2014-10-16 21:53:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:54:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:54:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:54:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:54:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:55:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:55:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:56:03 [INFO] Bernie was blown up by entity.creeperspecies.NetherStarCreeper.name
+2014-10-16 21:56:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:56:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 21:59:12 [INFO] Bernie tried to swim in lava
+2014-10-16 21:59:23 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-16 21:59:23 [INFO] Bernie left the game
+2014-10-16 21:59:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:08:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:15:04 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-16 22:15:07 [INFO] Bernie[/25.1.243.10:50116] logged in with entity id 15755 at (-65.5, 71.0, -4.5)
+2014-10-16 22:15:07 [INFO] Bernie joined the game
+2014-10-16 22:15:08 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-16 22:15:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:19:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:19:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:20:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:20:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-16 22:35:27 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-16 22:35:27 [INFO] Bernie left the game
+2014-10-16 22:55:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 00:05:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 00:10:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 01:10:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 02:56:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 03:32:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 04:10:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 04:28:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 04:35:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 05:16:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 14:31:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 15:02:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:05:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:14:19 [SEVERE] Reached end of stream for /25.148.143.138
+2014-10-17 16:14:23 [INFO] La Mera[/25.148.143.138:63484] logged in with entity id 24117 at (-68.5, 71.0, -6.5)
+2014-10-17 16:14:23 [INFO] La Mera joined the game
+2014-10-17 16:14:25 [INFO] MCA: Created new properties folder for the world 'world'.
+2014-10-17 16:14:25 [INFO] MCA: Saved world properties for player La Mera in world world
+2014-10-17 16:14:26 [INFO] MCA: Saved new world properties for world 'world' and player 'La Mera'.
+2014-10-17 16:14:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:14:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:14:45 [INFO] MCA: Saved world properties for player La Mera in world world
+2014-10-17 16:14:45 [INFO] MCA: Saved world properties for player La Mera in world world
+2014-10-17 16:14:45 [INFO] MCA: Saved world properties for player La Mera in world world
+2014-10-17 16:14:56 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 16:14:59 [INFO] SteveU[/25.14.110.61:51079] logged in with entity id 24876 at (228.61617698625832, 61.0, 54.34106156546246)
+2014-10-17 16:14:59 [INFO] SteveU joined the game
+2014-10-17 16:15:02 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-17 16:15:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:15:14 [INFO] <La Mera> hay barcos piratas y un castillo
+2014-10-17 16:15:18 [INFO] <SteveU> quien anda por aca?
+2014-10-17 16:15:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:15:22 [INFO] <SteveU> se
+2014-10-17 16:15:24 [INFO] <La Mera> y globos aerostaticos
+2014-10-17 16:15:29 [INFO] <La Mera> donde estas
+2014-10-17 16:15:31 [INFO] <SteveU> venite a 228 54
+2014-10-17 16:15:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:15:44 [INFO] <La Mera> llending
+2014-10-17 16:15:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:15:50 [INFO] <La Mera> yending
+2014-10-17 16:16:10 [INFO] <La Mera> asdfmkñsagn
+2014-10-17 16:16:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:16:15 [INFO] <La Mera> estas?
+2014-10-17 16:16:17 [INFO] <SteveU> se
+2014-10-17 16:16:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:16:22 [INFO] <La Mera> no tengo internet en chrome
+2014-10-17 16:16:25 [INFO] <La Mera> que carajo
+2014-10-17 16:16:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:16:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:17:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:17:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:18:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:18:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:18:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:19:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:19:06 [INFO] <SteveU> donde estas gardi?
+2014-10-17 16:19:10 [INFO] <SteveU> guardi
+2014-10-17 16:19:21 [INFO] <La Mera> en un barco encerrado
+2014-10-17 16:19:23 [INFO] <La Mera> jajaja
+2014-10-17 16:19:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:19:32 [INFO] <La Mera> estoy re lagoso
+2014-10-17 16:19:35 [INFO] <SteveU> venite para aca que esta la casa
+2014-10-17 16:19:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:19:41 [INFO] La Mera was slain by Zombie
+2014-10-17 16:19:43 [INFO] <SteveU> a mi me anda dentro de todo bien
+2014-10-17 16:19:47 [INFO] <SteveU> jajaja
+2014-10-17 16:19:52 [INFO] <SteveU> venite directo
+2014-10-17 16:20:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:20:01 [INFO] <La Mera> me anda bien para todo menos para pelear... ahi si se nota
+2014-10-17 16:20:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:20:16 [INFO] <La Mera> tirame las coordenadas de nuevo
+2014-10-17 16:20:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:20:25 [INFO] <SteveU> 200 50
+2014-10-17 16:20:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:20:48 [INFO] [MineBook] - Come To My Mad Party At The Following Coords! - X = 193, Y = 66, Z = 54
+2014-10-17 16:20:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:21:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:21:45 [INFO] <SteveU> aca estoy
+2014-10-17 16:21:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:21:50 [INFO] <SteveU> cruza el agua
+2014-10-17 16:21:59 [INFO] <SteveU> date vuelta
+2014-10-17 16:22:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:22:13 [INFO] <La Mera> no te veo
+2014-10-17 16:22:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:22:18 [INFO] <SteveU> con ctrl haces zoom
+2014-10-17 16:22:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:22:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:23:05 [INFO] <La Mera> la casa?
+2014-10-17 16:23:07 [INFO] <SteveU> veni
+2014-10-17 16:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:24:03 [INFO] <La Mera> op
+2014-10-17 16:24:06 [INFO] <La Mera> ya vengo
+2014-10-17 16:24:06 [INFO] <SteveU> bueno, me voy yendo.. solo queria probar
+2014-10-17 16:24:08 [INFO] <La Mera> un seg
+2014-10-17 16:24:08 [INFO] <SteveU> se
+2014-10-17 16:24:11 [INFO] <SteveU> ?
+2014-10-17 16:24:17 [INFO] <La Mera> ah... dale dale anda
+2014-10-17 16:24:22 [INFO] <La Mera> yo tambien.. a la noche jugamos
+2014-10-17 16:24:37 [INFO] <SteveU> no estoy a la noche, mañana puede ser
+2014-10-17 16:24:49 [INFO] <La Mera> eso es un pito
+2014-10-17 16:24:51 [INFO] <SteveU> nos vemo
+2014-10-17 16:24:52 [INFO] <La Mera> re original
+2014-10-17 16:24:55 [INFO] <SteveU> jajajaja
+2014-10-17 16:24:57 [INFO] <La Mera> adioo
+2014-10-17 16:24:58 [INFO] La Mera lost connection: disconnect.quitting
+2014-10-17 16:24:58 [INFO] La Mera left the game
+2014-10-17 16:24:59 [INFO] SteveU lost connection: disconnect.quitting
+2014-10-17 16:24:59 [INFO] SteveU left the game
+2014-10-17 16:39:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:42:43 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 16:42:44 [INFO] Bernie[/25.65.132.239:56770] logged in with entity id 53198 at (209.01515062959544, 13.0, 45.81257300702992)
+2014-10-17 16:42:44 [INFO] Bernie joined the game
+2014-10-17 16:42:47 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-17 16:43:25 [INFO] <Bernie> asd
+2014-10-17 16:50:17 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 16:50:19 [INFO] SteveU[/25.14.110.61:52560] logged in with entity id 56117 at (226.42253946844968, 62.0, 54.23596445669551)
+2014-10-17 16:50:19 [INFO] SteveU joined the game
+2014-10-17 16:50:20 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-17 16:50:44 [INFO] <SteveU> donde estas?
+2014-10-17 16:50:51 [INFO] <Bernie> en una mina
+2014-10-17 16:50:55 [INFO] <Bernie> 200 78
+2014-10-17 16:51:00 [INFO] <Bernie> la de casa
+2014-10-17 16:51:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:51:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:51:45 [INFO] <SteveU> che me aparece arriba que tipo de bloque estoy mirando
+2014-10-17 16:51:50 [INFO] <SteveU> como lo saco?
+2014-10-17 16:51:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:52:08 [INFO] <Bernie> no lo se
+2014-10-17 16:52:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:52:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:52:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:53:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:53:19 [INFO] Bernie was slain by entity.Illithid.name
+2014-10-17 16:53:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:53:26 [INFO] <SteveU> bien ahi
+2014-10-17 16:54:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:54:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:54:13 [INFO] <Bernie> no vi lo que me mato jaja
+2014-10-17 16:54:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:54:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:55:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:55:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:56:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:56:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:56:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:56:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:57:06 [INFO] <Bernie> dame un pico
+2014-10-17 16:57:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:57:19 [INFO] <SteveU> jajajaja
+2014-10-17 16:57:23 [INFO] <Bernie> uime
+2014-10-17 16:57:27 [INFO] <Bernie> seguime
+2014-10-17 16:57:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:57:36 [INFO] <SteveU> vam
+2014-10-17 16:57:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:58:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:58:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:58:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:59:04 [INFO] <SteveU> donde estas?
+2014-10-17 16:59:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:59:18 [INFO] <Bernie> te oerdste ya?
+2014-10-17 16:59:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 16:59:45 [INFO] <Bernie> eb 207 50 tengo un bunker
+2014-10-17 16:59:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:00:05 [INFO] <SteveU> altura?
+2014-10-17 17:00:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:00:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:00:35 [INFO] <SteveU> tus cosas?
+2014-10-17 17:00:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:00:53 [INFO] <Bernie> por aca
+2014-10-17 17:01:01 [INFO] <SteveU> donde?
+2014-10-17 17:01:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:01:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:01:22 [INFO] <Bernie> que es esto
+2014-10-17 17:01:26 [INFO] <SteveU> petroleo
+2014-10-17 17:01:27 [INFO] <Bernie> por ahi abajo del agua
+2014-10-17 17:01:36 [INFO] <Bernie> me mori aca
+2014-10-17 17:01:51 [INFO] <SteveU> no veo nada chabon
+2014-10-17 17:01:59 [INFO] <Bernie> torhch
+2014-10-17 17:02:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:02:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:05:12 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 17:05:12 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:05:13 [INFO] <Bernie> atasd
+2014-10-17 17:05:14 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 17:05:15 [INFO] SteveU lost connection: disconnect.endOfStream
+2014-10-17 17:05:15 [INFO] SteveU left the game
+2014-10-17 17:05:15 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:05:15 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 17:05:15 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:05:15 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:05:15 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:05:15 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 17:05:16 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:05:16 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 17:05:16 [SEVERE] Reached end of stream for /25.14.110.61
+2014-10-17 17:05:16 [INFO] /25.14.110.61:52838 lost connection
+2014-10-17 17:05:16 [INFO] SteveU [/25.14.110.61:52839] lost connection
+2014-10-17 17:05:16 [INFO] /25.65.132.239:56817 lost connection
+2014-10-17 17:05:16 [INFO] Bernie [/25.65.132.239:56818] lost connection
+2014-10-17 17:05:17 [INFO] Bernie [/25.65.132.239:56822] lost connection
+2014-10-17 17:05:17 [INFO] /25.14.110.61:52860 lost connection
+2014-10-17 17:05:17 [INFO] /25.65.132.239:56823 lost connection
+2014-10-17 17:05:17 [INFO] Bernie [/25.65.132.239:56824] lost connection
+2014-10-17 17:05:17 [INFO] /25.14.110.61:52890 lost connection
+2014-10-17 17:05:17 [INFO] /25.14.110.61:52893 lost connection
+2014-10-17 17:05:17 [INFO] Bernie lost connection: disconnect.genericReason
+2014-10-17 17:05:17 [INFO] Bernie left the game
+2014-10-17 17:05:21 [INFO] SteveU[/25.14.110.61:52894] logged in with entity id 62053 at (207.30000001192093, 23.42575815629323, 87.43271760861741)
+2014-10-17 17:05:21 [INFO] SteveU joined the game
+2014-10-17 17:05:25 [INFO] MCA: Loaded existing world properties for world 'world' and player 'SteveU'.
+2014-10-17 17:06:10 [INFO] <SteveU> no te veo
+2014-10-17 17:07:34 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:08:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:09:02 [INFO] Bernie[/25.65.132.239:56947] logged in with entity id 63465 at (202.45401017381786, 24.0, 91.35491493906953)
+2014-10-17 17:09:02 [INFO] Bernie joined the game
+2014-10-17 17:09:03 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-17 17:09:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:09:11 [INFO] <Bernie> asd
+2014-10-17 17:09:14 [INFO] <SteveU> mira
+2014-10-17 17:09:28 [INFO] <SteveU> era esa?
+2014-10-17 17:09:30 [INFO] <Bernie> el petroleo es un asco
+2014-10-17 17:09:30 [INFO] <Bernie> se
+2014-10-17 17:10:09 [INFO] <SteveU> volvemos a casa?
+2014-10-17 17:10:15 [INFO] <SteveU> tengo bastantes cosas
+2014-10-17 17:10:52 [INFO] <SteveU> que te pasa?
+2014-10-17 17:10:54 [INFO] <Bernie> no veo tu vida
+2014-10-17 17:10:58 [INFO] <SteveU> es carne
+2014-10-17 17:11:02 [INFO] <SteveU> yo tmp
+2014-10-17 17:11:05 [INFO] <Bernie> pega 7 de dao
+2014-10-17 17:11:09 [INFO] <Bernie> danio
+2014-10-17 17:11:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:12:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:12:58 [INFO] <SteveU> volvamos a casa
+2014-10-17 17:13:06 [INFO] <Bernie> me perdi
+2014-10-17 17:13:43 [INFO] <Bernie> wtf
+2014-10-17 17:13:48 [INFO] <Bernie> hay un re bicho aca
+2014-10-17 17:13:50 [INFO] <Bernie> 176 14
+2014-10-17 17:14:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:15:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:15:11 [INFO] <Bernie> zafe
+2014-10-17 17:15:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:15:35 [INFO] Bernie was slain by entity.HostileWorlds.InvaderZombie.name
+2014-10-17 17:15:45 [INFO] <SteveU> jajajaja
+2014-10-17 17:15:50 [INFO] <Bernie> man son invisibles
+2014-10-17 17:16:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:16:05 [INFO] <SteveU> traeme un pico de hierro
+2014-10-17 17:16:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:16:10 [INFO] <SteveU> que se me rompio
+2014-10-17 17:16:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:16:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:17:24 [INFO] <SteveU> deja, me estoy haciendo uno
+2014-10-17 17:17:33 [INFO] <Bernie> un que
+2014-10-17 17:17:33 [INFO] <SteveU> venite 197 53 19
+2014-10-17 17:17:37 [INFO] <SteveU> pico
+2014-10-17 17:19:07 [INFO] <Bernie> dame
+2014-10-17 17:19:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:19:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:20:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:20:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:21:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:21:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:21:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:22:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:22:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:24:13 [INFO] <SteveU> donde esta tu tumba?
+2014-10-17 17:24:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:24:34 [INFO] <Bernie> no se
+2014-10-17 17:24:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:24:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:25:11 [INFO] <SteveU> diamante!!
+2014-10-17 17:25:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:25:31 [INFO] <SteveU> 6
+2014-10-17 17:25:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:25:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:26:00 [INFO] <SteveU> che voy a hacer un camino para arriba
+2014-10-17 17:26:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:26:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:26:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:27:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:27:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:27:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:27:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:28:15 [INFO] <Bernie> hay zombies de invasion en la mina
+2014-10-17 17:28:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:28:19 [INFO] <Bernie> como 5 veo
+2014-10-17 17:28:26 [INFO] Bernie was slain by entity.HostileWorlds.InvaderZombie.name
+2014-10-17 17:28:29 [INFO] <SteveU> yo mate 2
+2014-10-17 17:28:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:28:38 [INFO] <Bernie> de dnode carajo apareceieron
+2014-10-17 17:28:49 [INFO] <Bernie> buen me voy que no paro de morir
+2014-10-17 17:28:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:29:00 [INFO] <Bernie> fijate si encontras alguna tumba agarrala
+2014-10-17 17:29:00 [INFO] <SteveU> ok, yo volvi a casa
+2014-10-17 17:29:02 [INFO] <Bernie> jaja
+2014-10-17 17:29:06 [INFO] <Bernie> nos vemos
+2014-10-17 17:29:07 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-17 17:29:07 [INFO] Bernie left the game
+2014-10-17 17:29:09 [INFO] <SteveU> estoy arriba ya
+2014-10-17 17:29:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:29:10 [SEVERE] Reached end of stream for /25.65.132.239
+2014-10-17 17:29:10 [INFO] /25.65.132.239:56975 lost connection
+2014-10-17 17:29:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:29:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:29:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:30:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:30:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:31:00 [INFO] SteveU lost connection: disconnect.quitting
+2014-10-17 17:31:00 [INFO] SteveU left the game
+2014-10-17 17:37:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:53:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 17:55:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 18:04:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 19:01:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 20:23:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 20:40:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 20:46:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 20:50:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 20:53:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 21:02:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 21:08:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 21:17:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 21:31:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 21:35:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 21:56:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 22:41:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:35:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:49:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:49:26 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-17 23:51:09 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-17 23:51:51 [INFO] Bernie[/25.1.243.10:49691] logged in with entity id 73203 at (-77.37964935694079, 62.38549491473568, -14.169799414773781)
+2014-10-17 23:51:51 [INFO] Bernie joined the game
+2014-10-17 23:51:53 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-17 23:51:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:52:04 [INFO] <Bernie> asd
+2014-10-17 23:53:03 [INFO] Bernie was shot by Skeleton
+2014-10-17 23:53:29 [SEVERE] Reached end of stream for /25.30.249.13
+2014-10-17 23:53:34 [INFO] FedeChamp[/25.30.249.13:60992] logged in with entity id 75642 at (-69.5, 65.0, -17.5)
+2014-10-17 23:53:34 [INFO] FedeChamp joined the game
+2014-10-17 23:53:35 [INFO] MCA: Created new properties folder for the world 'world'.
+2014-10-17 23:53:35 [INFO] MCA: Saved world properties for player FedeChamp in world world
+2014-10-17 23:53:35 [INFO] MCA: Saved new world properties for world 'world' and player 'FedeChamp'.
+2014-10-17 23:53:52 [INFO] MCA: Saved world properties for player FedeChamp in world world
+2014-10-17 23:53:52 [INFO] MCA: Saved world properties for player FedeChamp in world world
+2014-10-17 23:53:52 [INFO] MCA: Saved world properties for player FedeChamp in world world
+2014-10-17 23:56:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:56:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:57:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:59:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-17 23:59:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:00:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:00:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:00:47 [INFO] Bernie was blown up by Creeper
+2014-10-18 00:01:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:01:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:01:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:01:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:02:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:02:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:02:41 [INFO] Bernie was blown up by entity.creeperspecies.MysteryCreeper.name
+2014-10-18 00:03:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:03:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:03:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:03:45 [INFO] FedeChamp was slain by entity.HostileWorlds.InvaderZombie.name
+2014-10-18 00:03:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:04:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:04:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:04:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:04:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:05:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:05:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:05:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:06:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:06:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:06:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:07:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:07:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:07:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:08:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:08:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:08:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:08:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:09:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:09:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 00:09:29 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-18 00:09:29 [INFO] Bernie left the game
+2014-10-18 00:09:35 [INFO] FedeChamp lost connection: disconnect.quitting
+2014-10-18 00:09:35 [INFO] FedeChamp left the game
+2014-10-18 00:09:42 [INFO] Unknown command. Try /help for a list of commands
+2014-10-18 00:14:28 [INFO] Starting minecraft server version 1.6.4
+2014-10-18 00:14:36 [INFO] MCA: Loading mod properties...
+2014-10-18 00:14:36 [INFO] MCA: Attempting to find MCA as an archive in the mods folder...
+2014-10-18 00:14:36 [INFO] MCA:  -BetterDungeons2091.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -BiblioCraft[v1.5.5].zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -ConfigMod for MC v1.6.4.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -CoroUtil for MC v1.6.4.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -Creeperspecies_1.6.2.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -CyanosWonderfulWands-1.1.0.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -DecoCraft1.6.4 V1.9b.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -Digitalxp-0.1.2c.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -Dungeon Mobs v3.0.5.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -EnchantingPlus-1.16.5.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -EternalFrost.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -ExtendedRenderer for MC v1.6.4.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -Farlanders_v1.1c.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -Forge_LegendaryBeastsAlpha1.6.4.0.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -GraveStone_2.8.3.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -GrimoireofGaia2(1.8.2c).zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -Hostile Worlds v0.4.3 Alpha Mod for MC v1.6.4.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -InfernalMobs_1.6.4.zip <NOT>
+2014-10-18 00:14:36 [INFO] MCA:  -MCA-3.6.1 MC-1.6.4.zip <YES>
+2014-10-18 00:14:36 [INFO] MCA: Loading skins from data file: MCA-3.6.1 MC-1.6.4.zip...
+2014-10-18 00:14:36 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-18 00:14:36 [INFO] MCA: Could not find options.txt file. Defaulting to English.
+2014-10-18 00:14:36 [INFO] MCA: Language ID: en_US
+2014-10-18 00:14:36 [INFO] MCA: Loading English...
+2014-10-18 00:14:36 [INFO] MCA: Loaded 1642 phrases in English.
+2014-10-18 00:14:37 [INFO] Loading properties
+2014-10-18 00:14:37 [INFO] Default game type: SURVIVAL
+2014-10-18 00:14:37 [INFO] Generating keypair
+2014-10-18 00:14:38 [INFO] Starting Minecraft server on *:25565
+2014-10-18 00:14:38 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-10-18 00:14:38 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-10-18 00:14:38 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-10-18 00:14:38 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-10-18 00:14:40 [INFO] Smart Moving allows client configurations
+2014-10-18 00:14:40 [INFO] Smart Moving uses communication protocol 2.3
+2014-10-18 00:14:40 [INFO] Preparing level "world"
+2014-10-18 00:14:41 [INFO] Preparing start region for level 0
+2014-10-18 00:14:42 [INFO] Done (1.180s)! For help, type "help" or "?"
+2014-10-18 00:14:42 [INFO] MCA: Minecraft Comes Alive is running.
+2014-10-18 00:14:55 [SEVERE] Reached end of stream for /25.1.243.10
+2014-10-18 00:14:59 [INFO] Bernie[/25.1.243.10:49935] logged in with entity id 105 at (195.74167078971462, 83.0, 141.16551173807972)
+2014-10-18 00:14:59 [INFO] Bernie joined the game
+2014-10-18 00:15:00 [INFO] MCA: Loaded existing world properties for world 'world' and player 'Bernie'.
+2014-10-18 00:15:58 [SEVERE] Reached end of stream for /25.30.249.13
+2014-10-18 00:16:00 [INFO] FedeChamp[/25.30.249.13:61348] logged in with entity id 826 at (194.65472756597677, 83.0, 141.7912727981874)
+2014-10-18 00:16:00 [INFO] FedeChamp joined the game
+2014-10-18 00:16:01 [INFO] MCA: Loaded existing world properties for world 'world' and player 'FedeChamp'.
+2014-10-18 00:17:30 [INFO] FedeChamp was slain by Bernie
+2014-10-18 00:18:12 [INFO] Opped Bernie
+2014-10-18 00:18:23 [INFO] [Bernie: Teleported FedeChamp to Bernie]
+2014-10-18 00:21:01 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/4266, l='world', x=255.47, y=30.00, z=417.50]
+2014-10-18 00:21:01 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/4267, l='world', x=254.07, y=29.70, z=416.89]
+2014-10-18 00:21:01 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/4268, l='world', x=256.89, y=29.70, z=416.93]
+2014-10-18 00:21:33 [INFO] FedeChamp was slain by entity.HostileWorlds.InvaderZombie.name
+2014-10-18 00:28:39 [INFO] Bernie fell from a high place
+2014-10-18 00:28:47 [INFO] [Bernie: Teleported Bernie to FedeChamp]
+2014-10-18 00:37:14 [INFO] Bernie fell from a high place
+2014-10-18 00:37:17 [INFO] [Bernie: Teleported Bernie to FedeChamp]
+2014-10-18 00:37:31 [INFO] <Bernie> asd
+2014-10-18 00:41:25 [INFO] FedeChamp was doomed to fall by entity.HostileWorlds.InvaderZombieMiner.name
+2014-10-18 00:41:29 [INFO] <Bernie> kik+
+2014-10-18 00:41:34 [INFO] <FedeChamp> jaja
+2014-10-18 00:41:36 [INFO] <FedeChamp> tepeame
+2014-10-18 00:41:54 [INFO] [Bernie: Teleported FedeChamp to Bernie]
+2014-10-18 00:43:32 [INFO] <Bernie> consegui piuedra y carbon
+2014-10-18 00:46:55 [INFO] <Bernie> imaginate con columnas de madera asi y con techo de piedra
+2014-10-18 00:47:23 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/27241, l='world', x=255.47, y=30.00, z=417.50]
+2014-10-18 00:47:23 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/27242, l='world', x=254.07, y=29.70, z=416.89]
+2014-10-18 00:47:23 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/27243, l='world', x=256.89, y=29.70, z=416.93]
+2014-10-18 00:48:43 [INFO] <FedeChamp> encontre copper
+2014-10-18 00:48:48 [INFO] <FedeChamp> tiene el buildcraft esto
+2014-10-18 00:48:51 [INFO] <Bernie> es para ir al espacio eso creo
+2014-10-18 00:49:00 [INFO] <FedeChamp> espacio?
+2014-10-18 00:49:04 [INFO] <Bernie> se
+2014-10-18 00:54:02 [INFO] <Bernie> mineshaft
+2014-10-18 00:54:10 [INFO] <FedeChamp> groooooso
+2014-10-18 00:54:14 [INFO] <FedeChamp> podes hacer knifes
+2014-10-18 00:54:22 [INFO] <FedeChamp> son como espadas pero con una sola piedra
+2014-10-18 00:54:48 [INFO] <Bernie> tengo materiales
+2014-10-18 00:54:52 [INFO] <Bernie> volvemos?
+2014-10-18 01:01:16 [INFO] <FedeChamp> hay achas?
+2014-10-18 01:02:24 [INFO] FedeChamp fell from a high place
+2014-10-18 01:02:27 [INFO] <Bernie> lol
+2014-10-18 01:02:30 [INFO] <FedeChamp> p
+2014-10-18 01:02:31 [INFO] <FedeChamp> tp
+2014-10-18 01:02:37 [INFO] [Bernie: Teleported FedeChamp to Bernie]
+2014-10-18 01:08:23 [INFO] <Bernie> esa de ahi que sea la sala de cofres
+2014-10-18 01:10:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 01:10:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 01:11:52 [INFO] <Bernie> primero de la izq bloques, segundo herramientas
+2014-10-18 01:12:13 [INFO] <Bernie> en este hierro y es
+2014-10-18 01:12:29 [INFO] <Bernie> vamos al shaft?
+2014-10-18 01:13:26 [INFO] <Bernie> come baby
+2014-10-18 01:14:32 [INFO] <FedeChamp> estan uisando alguna convencion de antorchas izquierda o derecha?
+2014-10-18 01:14:37 [INFO] <Bernie> la de siempre
+2014-10-18 01:16:11 [INFO] <Bernie> spawn de cave spiders xD
+2014-10-18 01:18:41 [INFO] <Bernie> q carajo
+2014-10-18 01:18:51 [INFO] <FedeChamp> escucho ruidos muy raros
+2014-10-18 01:18:52 [INFO] <Bernie> que miedo
+2014-10-18 01:19:04 [INFO] <Bernie> eso
+2014-10-18 01:20:44 [INFO] <Bernie> eso es un meteoro
+2014-10-18 01:20:46 [INFO] <FedeChamp> que carajo!
+2014-10-18 01:21:20 [INFO] <FedeChamp> jaja
+2014-10-18 01:21:22 [INFO] <FedeChamp> mira lo que hay aca
+2014-10-18 01:21:54 [INFO] <Bernie> ashdjlaksdh
+2014-10-18 01:22:00 [INFO] <Bernie> q frute
+2014-10-18 01:22:02 [INFO] <FedeChamp> era un creper deforme
+2014-10-18 01:22:37 [INFO] <Bernie> aca estabamos
+2014-10-18 01:22:55 [INFO] <Bernie> 2 diamantes
+2014-10-18 01:23:21 [INFO] <Bernie> spawmn
+2014-10-18 01:23:25 [INFO] <Bernie> gelp!
+2014-10-18 01:23:54 [INFO] <Bernie> esta superchetada
+2014-10-18 01:23:55 [INFO] <Bernie> ojoo
+2014-10-18 01:24:18 [INFO] FedeChamp was burnt to a crisp whilst fighting Cave Spider
+2014-10-18 01:24:23 [INFO] Bernie was slain by Cave Spider
+2014-10-18 01:24:31 [INFO] <Bernie> man se curo toda la vida
+2014-10-18 01:24:47 [INFO] FedeChamp was blown up by entity.creeperspecies.NetherStarCreeper.name
+2014-10-18 01:25:06 [INFO] [Bernie: Teleported FedeChamp to Bernie]
+2014-10-18 01:26:11 [INFO] <Bernie> man mira el barco
+2014-10-18 01:26:17 [INFO] <Bernie> el pirata se subio a un bote
+2014-10-18 01:26:21 [INFO] <Bernie> y te perseguia
+2014-10-18 01:26:25 [INFO] <FedeChamp> jajaja
+2014-10-18 01:27:10 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/56536, l='world', x=255.47, y=30.00, z=417.50]
+2014-10-18 01:27:10 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/56537, l='world', x=254.07, y=29.70, z=416.89]
+2014-10-18 01:27:10 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/56538, l='world', x=256.89, y=29.70, z=416.93]
+2014-10-18 01:28:36 [INFO] <Bernie> agarra pico y espada y vamos
+2014-10-18 01:30:43 [INFO] <Bernie> es por aca?
+2014-10-18 01:31:01 [INFO] [Bernie: Teleported FedeChamp to Bernie]
+2014-10-18 01:31:18 [INFO] <Bernie> vamos casa?
+2014-10-18 01:31:22 [INFO] <FedeChamp> s
+2014-10-18 01:31:30 [INFO] <FedeChamp> te estoy llamando al skype
+2014-10-18 01:33:26 [INFO] <FedeChamp> capo, llamame por skype
+2014-10-18 01:40:26 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/74635, l='world', x=255.47, y=30.00, z=417.50]
+2014-10-18 01:40:26 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/74636, l='world', x=254.07, y=29.70, z=416.89]
+2014-10-18 01:40:26 [SEVERE] Wrong location! EntityTurtlePart['entity.BetterDungeons.TurtleBossPart.name'/74637, l='world', x=256.89, y=29.70, z=416.93]
+2014-10-18 01:41:01 [INFO] FedeChamp was blown up by entity.creeperspecies.MysteryCreeper.name
+2014-10-18 01:41:22 [INFO] Bernie was slain by entity.EnderLord.name
+2014-10-18 01:41:26 [INFO] FedeChamp was slain by entity.EnderLord.name
+2014-10-18 01:41:31 [INFO] Bernie was slain by entity.EnderLord.name
+2014-10-18 01:41:39 [INFO] FedeChamp was slain by entity.EnderLord.name
+2014-10-18 01:41:44 [INFO] Bernie was slain by entity.EnderLord.name
+2014-10-18 01:41:52 [INFO] Bernie was slain by entity.EnderLord.name
+2014-10-18 01:41:59 [INFO] FedeChamp was slain by entity.EnderLord.name
+2014-10-18 01:42:28 [INFO] FedeChamp fell from a high place
+2014-10-18 01:42:35 [INFO] Bernie was slain by entity.EnderLord.name
+2014-10-18 01:42:37 [INFO] FedeChamp fell from a high place
+2014-10-18 01:44:07 [INFO] FedeChamp was slain by entity.EnderLord.name
+2014-10-18 01:47:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-10-18 01:48:09 [INFO] Bernie was slain by entity.farlanders.Titan.name
+2014-10-18 01:48:20 [INFO] Bernie fell from a high place
+2014-10-18 01:50:50 [INFO] Bernie lost connection: disconnect.quitting
+2014-10-18 01:50:50 [INFO] Bernie left the game
+2014-10-18 01:51:09 [INFO] FedeChamp lost connection: disconnect.quitting
+2014-10-18 01:51:09 [INFO] FedeChamp left the game
